@@ -7,3 +7,6 @@ These packages need to be installed with pip.
 - matplotlib
 - plotly
 
+Elon University is _located_ in **Elon, NC**.
+
+[LINK](elon.edu)
